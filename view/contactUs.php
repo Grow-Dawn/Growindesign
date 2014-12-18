@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-
-    
-
 <body>
     
     
@@ -40,13 +36,7 @@
             <label for="action">&nbsp;</label><br>
             <input id="action" name="action" type="submit" value="Send"><br>
         </fieldset>
-    </form>
-   
-    
-    
-    
-     
-    
+    </form>   
 </body>
 
    

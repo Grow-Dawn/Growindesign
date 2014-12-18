@@ -13,7 +13,7 @@ $date = date('Y')
             <?php
         }  ?>
 </div>
-
+<div>
 <p>
     <br>
 &copy; <?php echo $date ?> Designed by Dawn Grow

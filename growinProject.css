@@ -1,7 +1,3 @@
-*{ 
-    //border: 1px dashed red;
-    
-}
 body {
         background: url('/portfolio-5.jpg') no-repeat top center;
         width: 100%;
@@ -13,7 +9,7 @@ a {
         font-family:Garamond, bold;
 }
 a:hover {
-	font-size:1.5 em;
+	font-size:1.5em;
 	text-align: match-parent;
 	color: #002060;
 	font-weight: bold;
@@ -110,8 +106,7 @@ img {
 #artimage img{
         width: 25%;
 	margin-left: 5%;
-        display:inline ;
-        //alignment-adjust: middle;
+        display:inline;
 }
 #artsy{
         margin-top: 0px;
@@ -128,15 +123,12 @@ img {
        
 }#thumbs img{
         width: 50%;
-        //margin-left: 45%;
         alignment-adjust: middle;
 }
 #thumbs p{
         text-align: center;
-        //margin-left: 30%;
         width: 50%;
-        //alignment-adjust: middle;
-    }
+}
 #loginregister{
         margin-top: 0px;
 	border-radius:5px;
@@ -152,7 +144,7 @@ img {
 	color: white;
         position: relative;
         margin-left: 15%;
-        text-align: center;
+        text-align: left;
  }
 #userlist a{
         width:50%;
@@ -161,6 +153,7 @@ img {
 	color: white;
         position: relative;
         margin-left: 5%;
+        text-align: left;
  }
 form{
         width:50%;

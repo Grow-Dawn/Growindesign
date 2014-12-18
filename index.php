@@ -2,7 +2,7 @@
 <html>
     <head>
   <meta charset="UTF-8">
-<link type="text/css" media="screen" rel="stylesheet" href="/growinProject.css">
+<link type="text/css" media="screen" rel="stylesheet" href="/growinProject.css"/>
 <title>GrowinDesign</title> </head><body>
 <img class="logo" src="DG%20logo2.png" alt="Smiley Face">
 <h1>Growin' Design | by Dawn Grow</h1>
